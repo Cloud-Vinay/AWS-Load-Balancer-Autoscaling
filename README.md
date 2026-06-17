@@ -42,31 +42,31 @@ The load balancer distributes incoming traffic across multiple EC2 instances, wh
 ## Screenshots
 
 ### EC2 Instances Running
-![EC2](01-ec2-instances-running.png)
+![EC2](ec2-instances-running.png)
 
 ### Server 1 Page
-![Server1](02-server1-page.png)
+![Server1](server1-page.png)
 
 ### Server 2 Page
-![Server2](03-server2-page.png)
+![Server2](server2-page.png)
 
 ### Target Group Healthy
-![TargetGroup](04-target-group-healthy.png)
+![TargetGroup](target-group-healthy.png)
 
 ### Load Balancer Active
-![ALB](05-load-balancer-active.png)
+![ALB](load-balancer-active.png)
 
 ### ALB Working - Server 1
-![ALB1](06-alb-working-server1.png)
+![ALB1](alb-working-server1.png)
 
 ### ALB Working - Server 2
-![ALB2](07-alb-working-server2.png)
+![ALB2](alb-working-server2.png)
 
 ### Auto Scaling Group Overview
-![ASG](08-autoscaling-group-overview.png)
+![ASG](autoscaling-group-overview.png)
 
 ### Auto Healing Test
-![Healing](09-auto-healing-test.png)
+![Healing](auto-healing-test.png)
 
 ## Skills Demonstrated
 
